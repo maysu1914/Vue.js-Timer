@@ -9,4 +9,4 @@ Basic timer project with Vue.js.
 - Fontawesome
 
 ## Image
-![image1](https://res.cloudinary.com/djiay4zdw/image/upload/v1608050655/image1_yaguu3.jpg)
+![gif1](https://res.cloudinary.com/djiay4zdw/image/upload/v1608051700/hoA47IvR4C_lldvge.gif)
